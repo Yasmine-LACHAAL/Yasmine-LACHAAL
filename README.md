@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Yasmine-LACHAAL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, je suis Yasmine LACHAAL
+- Je suis élève ingénieur en téléinformatique
+- 👀 I Je m'intéresse aux nouvelles technologies
+- 🌱 I’m currently lear  d'apprendre des nouveaux framworks "Angular / Nodejs"
+- 💞
+- 📫  Contactez-moi: yasmin.lachaal@gmail.com
 
 <!---
 Yasmine-LACHAAL/Yasmine-LACHAAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
